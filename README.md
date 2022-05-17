@@ -1,7 +1,7 @@
 # BackgroundTasks
 
 
-Sometimes we need tasks that are performed on a recurring basis in our application.
+Sometimes we need run recurring tasks in our applications.
 
 For example, that every X seconds a query is made in the database and an email is sent to all users with status Y.
 
